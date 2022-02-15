@@ -1,2 +1,3 @@
 This is my first commit using cat Gutu only to test using >>
 This for my first jenkins job lear how every two minutes jenkins check remote and if there is update run on jenkins  
+This to check run time on jenkins
